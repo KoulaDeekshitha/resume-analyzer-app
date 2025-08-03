@@ -1,3 +1,4 @@
+
 # Resume Analyzer App
 
 An intuitive web application designed to help HR teams streamline the resume screening process. The app allows users to upload PDF resumes, automatically extracts key skills and relevant information using Natural Language Processing (NLP), and stores the data in a database for easy searching and management.
