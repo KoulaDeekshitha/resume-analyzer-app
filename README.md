@@ -38,7 +38,7 @@ Built with Python, Streamlit, and SQLite, this project showcases full-stack deve
 
 ## Demo Screenshot
 
-Here is how the Resume Analyzer App looks
+Here is how the Resume Analyzer Extracted Keywords looks
 
 ![App Screenshot](screenshots/demo1.jpeg)
 
