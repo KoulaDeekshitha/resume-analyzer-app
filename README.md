@@ -35,3 +35,10 @@ Built with Python, Streamlit, and SQLite, this project showcases full-stack deve
    ```bash
    git clone https://github.com/your-username/resume-analyzer-app.git
    cd resume-analyzer-app
+
+## Demo Screenshot
+
+Here is how the Resume Analyzer App looks
+
+![App Screenshot](screenshots/demo1.jpeg)
+
